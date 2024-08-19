@@ -34,13 +34,13 @@
     ],
     "python.testing.pytestEnabled": true,
     "python.testing.unittestEnabled": false,
+    "ruff.configuration": "ruff.toml",
+    "ruff.configurationPreference": "filesystemFirst",
     "terminal.integrated.mouseWheelZoom": true,
     "window.zoomLevel": 0.0,
     "workbench.colorTheme": "Default Dark Modern",
     "workbench.iconTheme": "vs-seti",
     "workbench.tree.indent": 20,
     "workbench.tree.renderIndentGuides": "always",
-    "ruff.configuration": "ruff.toml",
-    "ruff.configurationPreference": "filesystemFirst",
     "zenMode.fullScreen": false
 }
