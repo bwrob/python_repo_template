@@ -1,6 +1,8 @@
 """Example script."""
 
-from pprint import pprint as pp
+from logging import getLogger
+
+logger = getLogger(__name__)
 
 if __name__ == "__main__":
-    pp("Example of Python Program")
+    logger.info("Example of Python Program")
