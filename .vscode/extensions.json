@@ -31,7 +31,8 @@
         "redhat.vscode-yaml",
         "richie5um2.vscode-sort-json",
         "tamasfe.even-better-toml",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "ms-vscode.vscode-github-issue-notebooks"
     ],
     "unwantedRecommendations": []
 }
