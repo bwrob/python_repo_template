@@ -23,7 +23,7 @@ pre_commit = "^3.3.2"
 recursive = true
 in-place = true
 black = true
-pre-summary-newline = true
+pre-summary-newline = false
 blank = true
 
 [tool.basedpyright]

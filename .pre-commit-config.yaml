@@ -22,6 +22,6 @@ repos:
     repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
   - repo: https://github.com/DetachHead/basedpyright-pre-commit-mirror
-    rev: 1.16.0 # or whatever the latest version is at the time
+    rev: 1.16.0
     hooks:
       - id: basedpyright
