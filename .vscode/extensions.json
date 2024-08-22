@@ -32,7 +32,9 @@
         "richie5um2.vscode-sort-json",
         "tamasfe.even-better-toml",
         "yzhang.markdown-all-in-one",
-        "ms-vscode.vscode-github-issue-notebooks"
+        "ms-vscode.vscode-github-issue-notebooks",
+        "ms-toolsai.datawrangler",
+        "tomoki1207.pdf"
     ],
     "unwantedRecommendations": []
 }

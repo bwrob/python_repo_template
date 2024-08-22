@@ -37,6 +37,7 @@
     ],
     "indentRainbow.updateDelay": 50,
     "jupyter.askForKernelRestart": false,
+    "notebook.formatOnSave.enabled": true,
     "python.languageServer": "None",
     "python.poetryPath": "poetry",
     "python.testing.pytestArgs": [
