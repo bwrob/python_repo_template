@@ -164,3 +164,7 @@ cython_debug/
 
 # Ruff stuff
 .ruff_cache/
+
+# Readme preview
+README.html
+README_files/
